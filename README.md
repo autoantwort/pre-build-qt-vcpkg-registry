@@ -1,0 +1,1 @@
+# pre-build-qt-vcpkg-registry

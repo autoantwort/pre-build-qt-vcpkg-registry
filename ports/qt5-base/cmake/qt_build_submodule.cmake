@@ -6,7 +6,8 @@ function(qt_build_submodule SOURCE_PATH)
     vcpkg_find_acquire_program(PYTHON2)
     get_filename_component(PYTHON2_EXE_PATH ${PYTHON2} DIRECTORY)
     vcpkg_add_to_path("${PYTHON2_EXE_PATH}")
-
+    message(WARNING "VCPKG_QT_HOST_TOOLS_ROOT_DIR: ${VCPKG_QT_HOST_TOOLS_ROOT_DIR}")
+    message(WARNING "QT_QMAKE_EXECUTABLE: ${QT_QMAKE_EXECUTABLE}")
     vcpkg_configure_qmake(SOURCE_PATH ${SOURCE_PATH} ${ARGV})
 
     vcpkg_build_qmake(SKIP_MAKEFILES)

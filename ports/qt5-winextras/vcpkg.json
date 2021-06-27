@@ -1,0 +1,6 @@
+{
+  "name": "qt5-winextras",
+  "version-string": "5.15.2",
+  "description": "Qt5 Windows Extras Module. Provides platform-specific APIs for Windows.",
+  "supports": "windows"
+}

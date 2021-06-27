@@ -1,0 +1,128 @@
+{
+  "name": "qt5",
+  "version-string": "5.15.2",
+  "description": "Qt5 Application Framework",
+  "homepage": "https://www.qt.io/",
+  "default-features": [
+    "essentials"
+  ],
+  "features": {
+    "3d": {
+      "description": []
+    },
+    "activeqt": {
+      "description": "Windows Only"
+    },
+    "all": {
+      "description": "Install all Qt5 submodules (Warning: Could take a long time and fail...)"
+    },
+    "charts": {
+      "description": []
+    },
+    "connectivity": {
+      "description": []
+    },
+    "datavis3d": {
+      "description": []
+    },
+    "declarative": {
+      "description": []
+    },
+    "doc": {
+      "description": []
+    },
+    "essentials": {
+      "description": "Build the essential qt modules"
+    },
+    "extras": {
+      "description": []
+    },
+    "gamepad": {
+      "description": []
+    },
+    "graphicaleffects": {
+      "description": []
+    },
+    "imageformats": {
+      "description": []
+    },
+    "latest": {
+      "description": "Build latest qt version (5.15.2) instead of LTS (Currently latest==LTS)"
+    },
+    "location": {
+      "description": []
+    },
+    "mqtt": {
+      "description": []
+    },
+    "multimedia": {
+      "description": []
+    },
+    "networkauth": {
+      "description": []
+    },
+    "purchasing": {
+      "description": []
+    },
+    "quickcontrols": {
+      "description": "(deprecated)"
+    },
+    "quickcontrols2": {
+      "description": []
+    },
+    "remoteobjects": {
+      "description": []
+    },
+    "script": {
+      "description": "(deprecated)"
+    },
+    "scxml": {
+      "description": []
+    },
+    "sensors": {
+      "description": []
+    },
+    "serialbus": {
+      "description": []
+    },
+    "serialport": {
+      "description": []
+    },
+    "speech": {
+      "description": []
+    },
+    "svg": {
+      "description": []
+    },
+    "tools": {
+      "description": []
+    },
+    "translations": {
+      "description": []
+    },
+    "virtualkeyboard": {
+      "description": []
+    },
+    "wayland": {
+      "description": []
+    },
+    "webchannel": {
+      "description": []
+    },
+    "webengine": {
+      "description": []
+    },
+    "webglplugin": {
+      "description": []
+    },
+    "websockets": {
+      "description": []
+    },
+    "webview": {
+      "description": []
+    },
+    "xmlpatterns": {
+      "description": "(deprecated)"
+    }
+  }
+}

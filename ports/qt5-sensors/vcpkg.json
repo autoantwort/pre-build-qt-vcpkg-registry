@@ -1,0 +1,5 @@
+{
+  "name": "qt5-sensors",
+  "version-string": "5.15.2",
+  "description": "Qt5 Sensors module - Provides access to sensor hardware and motion gesture recognition."
+}

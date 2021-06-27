@@ -1,0 +1,5 @@
+{
+  "name": "qt5-xmlpatterns",
+  "version-string": "5.15.2",
+  "description": "Qt5 XML Patterns Module - Support for XPath, XQuery, XSLT and XML schema validation"
+}

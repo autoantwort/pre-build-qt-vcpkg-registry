@@ -1,0 +1,5 @@
+{
+  "name": "qt5-mqtt",
+  "version-string": "5.15.2",
+  "description": "Qt5 MQTT module."
+}

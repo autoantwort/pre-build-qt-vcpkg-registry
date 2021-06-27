@@ -1,0 +1,5 @@
+{
+  "name": "qt5-location",
+  "version-string": "5.15.2",
+  "description": "Qt5 Location Module - Displays map, navigation, and place content in a QML application."
+}

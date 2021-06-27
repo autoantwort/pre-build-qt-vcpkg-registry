@@ -1,0 +1,6 @@
+{
+  "name": "qt5-connectivity",
+  "version-string": "5.15.2",
+  "port-version": 1,
+  "description": "Qt5 Connectivity module - Provides access to Bluetooth and NFC hardware"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "qt5-doc",
+  "version-string": "5.15.2",
+  "description": "Qt5 doc Module;",
+  "supports": "linux"
+}

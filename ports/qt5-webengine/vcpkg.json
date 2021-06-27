@@ -1,0 +1,12 @@
+{
+  "name": "qt5-webengine",
+  "version-string": "5.15.2",
+  "port-version": 2,
+  "description": "Qt5 webengine Module;",
+  "supports": "!static",
+  "features": {
+    "proprietary-codecs": {
+      "description": "Enable proprietary-codecs in qtwebengine"
+    }
+  }
+}

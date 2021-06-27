@@ -1,0 +1,5 @@
+{
+  "name": "qt5-websockets",
+  "version-string": "5.15.2",
+  "description": "Qt5 Web Sockets Module - provides WebSocket communication compliant with RFC 6455"
+}

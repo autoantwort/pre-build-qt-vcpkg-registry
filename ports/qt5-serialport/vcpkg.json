@@ -1,0 +1,5 @@
+{
+  "name": "qt5-serialport",
+  "version-string": "5.15.2",
+  "description": "Qt5 Serial Port - provides access to hardware and virtual serial ports"
+}
